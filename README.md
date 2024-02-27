@@ -1,4 +1,4 @@
-# counter
+# ➕/➖ Counter
 A simple counter to keep track anything you are counting. Press the plus button to increase the value. Press the minus button to decrease the value. Press the reset button to reset the counter value.
 
 ## Getting Started
